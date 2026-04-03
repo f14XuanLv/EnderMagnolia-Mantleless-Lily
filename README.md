@@ -40,8 +40,8 @@ Lily appearance modifications for Ender Magnolia.
     <th>Impurity Revealing Lily</th>
   </tr>
   <tr>
-    <td><img src="presentation/Mantleless_Lily.gif" alt="Mantleless Lily" width="240"></td>
-    <td><img src="presentation/Impurity-Revealing_Lily.gif" alt="Impurity Revealing Lily" width="240"></td>
+    <td><img src="Presentation/Mantleless_Lily.gif" alt="Mantleless Lily" width="240"></td>
+    <td><img src="Presentation/Impurity-Revealing_Lily.gif" alt="Impurity Revealing Lily" width="240"></td>
   </tr>
 </table>
 
